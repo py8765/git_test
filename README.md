@@ -3,9 +3,9 @@ git_test
 
 just test
 
-test commit a
+987654321
 
-test commit b
+12345678890 abcdef
 
 test commit 123
 
