@@ -15,4 +15,4 @@ test commit 123666666
 
 develop commit a
 
-master commit b
+rebase: master commit b
